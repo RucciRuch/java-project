@@ -1,0 +1,6 @@
+*.err
+*.log
+*.class
+classes/
+*.out
+
